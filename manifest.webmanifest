@@ -1,1 +1,24 @@
-{"name":"$TASHBOY MUSIC Merch Store","short_name":"TASHBOY MERCH","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#090909","theme_color":"#090909","description":"Official $TASHBOY MUSIC merch store","icons":[{"src":"assets/stashboy-logo.webp","sizes":"any","type":"image/webp","purpose":"any maskable"}]}
+
+{
+  "name": "$TASHBOY MUSIC — THE OFFICIAL ARTIST APP",
+  "short_name": "$TASHBOY MUSIC",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090909",
+  "theme_color": "#B00020",
+  "description": "The official $TASHBOY MUSIC artist app. Discover music, albums, merchandise, artwork and upcoming releases. THE MUSIC. THE MOVEMENT. THE STORY.",
+  "categories": [
+    "music",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "iconscource.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
