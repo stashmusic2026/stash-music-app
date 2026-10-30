@@ -1,24 +1,8 @@
-
-{
-  "name": "$TASHBOY MUSIC — THE OFFICIAL ARTIST APP",
-  "short_name": "$TASHBOY MUSIC",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#090909",
-  "theme_color": "#B00020",
-  "description": "The official $TASHBOY MUSIC artist app. Discover music, albums, merchandise, artwork and upcoming releases. THE MUSIC. THE MOVEMENT. THE STORY.",
-  "categories": [
-    "music",
-    "entertainment"
-  ],
-  "icons": [
-    {
-      "src": "iconscource.webp",
-      "sizes": "any",
-      "type": "image/webp",
-      "purpose": "any"
-    }
-  ]
-}
+"icons": [
+  {
+    "src": "./launchericon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any"
+  }
+]
